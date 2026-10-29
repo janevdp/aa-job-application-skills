@@ -1,0 +1,17 @@
+# Candidate data: never publish
+cvs/
+output/
+
+# Source documents and generated files
+*.pdf
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+#Chat summary / helper files
+chat-summary.md
