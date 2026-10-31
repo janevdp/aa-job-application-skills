@@ -431,9 +431,9 @@ One rule for every document, in every output format:
 
 - **Pattern:** `<Type>_<FirstName>_<LastName>_<ddmmyy>`
   - `<Type>` is `CV`, `CoverLetter` or `Guidance`.
-  - `<FirstName>` and `<LastName>` are the candidate's names, with no spaces (for example `vanderPol`).
+  - `<FirstName>` and `<LastName>` are the candidate's names, with no spaces (for example `ExampleName`).
   - `<ddmmyy>` is the date the document is created, for example `221026` for 22 October 2026.
-- **Examples:** `CV_Jane_vanderPol_221026`, `CoverLetter_Jane_vanderPol_221026`, `Guidance_Jane_vanderPol_221026`.
+- **Examples:** `CV_FirstName_LastName_ddmmyy`, `CoverLetter_FirstName_LastName_ddmmyy`, `Guidance_FirstName_LastName_ddmmyy`.
 - Original-design copies use the same pattern. Do not add the company or the role to the name.
 - Rename existing documents whose titles do not follow the pattern.
 
